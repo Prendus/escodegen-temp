@@ -1,4 +1,10 @@
 {
   "name": "escodegen-temp",
-  "version": "0.0.0"
+  "version": "0.0.0",
+  "dependencies": {
+    "estraverse": "^1.9.1",
+    "esutils": "^2.0.2",
+    "esprima": "^2.7.1",
+    "optionator": "^0.8.1"
+  }
 }
